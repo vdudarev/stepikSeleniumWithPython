@@ -1,2 +1,2 @@
 # stepikSeleniumWithPython
-Tasks for stepik cource on selenuim
+Tasks for stepik course on selenuim
